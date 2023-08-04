@@ -1,0 +1,26 @@
+.footer_area{
+    background-color: black;
+    width: 100%;
+    min-height: 120px;
+    color: whitesmoke;
+}
+.footer_area_top{
+    background-color: gray;
+    min-height: 40px;
+    color: yellow;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.footer_area_links{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.footer_copyright > p{
+    margin-top: 20px;
+    margin-left: 550px;
+}

@@ -1,0 +1,9 @@
+.each-slide {
+    height: 300px;
+}
+.home_row{
+    display: flex;
+    z-index: 1;
+    margin-right: 5px;
+    margin-left: 5px;
+}
